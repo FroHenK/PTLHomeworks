@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Д/З ФТЛ</string>\
+    <string name="action_update">Обновить данные</string>
+    <string name="updatingPleaseWait">Подождите...</string>
+    <string name="failed">Failed</string>
+    <string name="urlForJson">http://roguelike-frohenk.rhcloud.com/get_homeworks_json/</string>
+    <string name="success">Удачно</string>
+    <string name="updatedDate">Обновлено: %s</string>
+    <string name="title_activity_homework_by_date">HomeworkByDateActivity</string>
+</resources>
